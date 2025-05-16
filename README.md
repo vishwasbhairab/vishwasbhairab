@@ -38,8 +38,8 @@ Feel free to reach out to me for collaborations or just a chat about data scienc
 
 ## 📈 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=vishwasbhairab)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwasbhairab&show_icons=true&theme=radical)
 
 ## 🚀 Fun Facts
 - 💡 Always exploring new technologies and frameworks
